@@ -8,7 +8,9 @@ enum MyEnum {
     //% block="one"
     One,
     //% block="two"
-    Two
+    Two,
+    //% block="three"
+    Three
 }
 
 /**
